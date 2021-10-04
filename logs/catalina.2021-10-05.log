@@ -1,0 +1,49 @@
+05-Oct-2021 00:00:10.846 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Oct-2021 00:00:10.949 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Oct-2021 00:00:10.966 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Oct-2021 00:00:10.997 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Oct-2021 00:00:13.112 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.53
+05-Oct-2021 00:00:13.114 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 6 2021 19:09:00 UTC
+05-Oct-2021 00:00:13.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.53.0
+05-Oct-2021 00:00:13.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Oct-2021 00:00:13.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+05-Oct-2021 00:00:13.115 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Oct-2021 00:00:13.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+05-Oct-2021 00:00:13.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+05-Oct-2021 00:00:13.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Oct-2021 00:00:13.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Moira\Downloads\myProject
+05-Oct-2021 00:00:13.116 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Moira\Downloads\myProject
+05-Oct-2021 00:00:13.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Moira\Downloads\myProject\conf\logging.properties
+05-Oct-2021 00:00:13.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Oct-2021 00:00:13.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Oct-2021 00:00:13.117 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Oct-2021 00:00:13.118 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Oct-2021 00:00:13.119 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Moira\Downloads\myProject
+05-Oct-2021 00:00:13.119 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Moira\Downloads\myProject
+05-Oct-2021 00:00:13.119 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Moira\Downloads\myProject\temp
+05-Oct-2021 00:00:13.125 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Moira\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;D:\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\Git\cmd;C:\Users\Moira\Downloads\myProject\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Moira\AppData\Local\Microsoft\WindowsApps;C:\modeltech64_10.5\win64;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;.]
+05-Oct-2021 00:00:13.441 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Oct-2021 00:00:13.463 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [523] milliseconds
+05-Oct-2021 00:00:13.494 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Oct-2021 00:00:13.495 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.53]
+05-Oct-2021 00:00:13.517 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\app]
+05-Oct-2021 00:00:14.141 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Oct-2021 00:00:14.279 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [115] milliseconds.
+05-Oct-2021 00:00:14.296 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\app] has finished in [778] ms
+05-Oct-2021 00:00:14.296 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\docs]
+05-Oct-2021 00:00:14.571 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Oct-2021 00:00:14.575 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\docs] has finished in [279] ms
+05-Oct-2021 00:00:14.576 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\examples]
+05-Oct-2021 00:00:15.082 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Oct-2021 00:00:15.162 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\examples] has finished in [587] ms
+05-Oct-2021 00:00:15.163 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\host-manager]
+05-Oct-2021 00:00:15.434 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Oct-2021 00:00:15.440 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\host-manager] has finished in [276] ms
+05-Oct-2021 00:00:15.440 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\manager]
+05-Oct-2021 00:00:15.720 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Oct-2021 00:00:15.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\manager] has finished in [283] ms
+05-Oct-2021 00:00:15.723 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\ROOT]
+05-Oct-2021 00:00:16.022 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Oct-2021 00:00:16.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\ROOT] has finished in [302] ms
+05-Oct-2021 00:00:16.031 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Oct-2021 00:00:16.050 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2586] milliseconds

@@ -1,0 +1,82 @@
+04-Oct-2021 23:09:16.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.53
+04-Oct-2021 23:09:16.273 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 6 2021 19:09:00 UTC
+04-Oct-2021 23:09:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.53.0
+04-Oct-2021 23:09:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Oct-2021 23:09:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Oct-2021 23:09:16.274 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Oct-2021 23:09:16.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+04-Oct-2021 23:09:16.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+04-Oct-2021 23:09:16.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2021 23:09:16.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Moira\Downloads\myProject
+04-Oct-2021 23:09:16.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Moira\Downloads\myProject
+04-Oct-2021 23:09:16.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Moira\Downloads\myProject\conf\logging.properties
+04-Oct-2021 23:09:16.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2021 23:09:16.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2021 23:09:16.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2021 23:09:16.276 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2021 23:09:16.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Moira\Downloads\myProject
+04-Oct-2021 23:09:16.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Moira\Downloads\myProject
+04-Oct-2021 23:09:16.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Moira\Downloads\myProject\temp
+04-Oct-2021 23:09:16.282 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Moira\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;D:\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\Git\cmd;C:\Users\Moira\Downloads\myProject\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Moira\AppData\Local\Microsoft\WindowsApps;C:\modeltech64_10.5\win64;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;.]
+04-Oct-2021 23:09:16.612 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:09:16.632 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [560] milliseconds
+04-Oct-2021 23:09:16.664 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2021 23:09:16.664 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.53]
+04-Oct-2021 23:09:16.677 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\docs]
+04-Oct-2021 23:09:17.005 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [126] milliseconds.
+04-Oct-2021 23:09:17.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\docs] has finished in [348] ms
+04-Oct-2021 23:09:17.025 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\examples]
+04-Oct-2021 23:09:17.389 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\examples] has finished in [364] ms
+04-Oct-2021 23:09:17.390 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\host-manager]
+04-Oct-2021 23:09:17.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\host-manager] has finished in [41] ms
+04-Oct-2021 23:09:17.431 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\manager]
+04-Oct-2021 23:09:17.460 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\manager] has finished in [28] ms
+04-Oct-2021 23:09:17.461 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\ROOT]
+04-Oct-2021 23:09:17.484 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\ROOT] has finished in [24] ms
+04-Oct-2021 23:09:17.489 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:09:17.507 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [874] milliseconds
+04-Oct-2021 23:15:57.949 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\app]
+04-Oct-2021 23:15:57.979 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\app] has finished in [30] ms
+04-Oct-2021 23:31:55.531 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:31:55.625 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Oct-2021 23:31:55.646 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:31:55.687 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:32:07.592 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.53
+04-Oct-2021 23:32:07.595 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 6 2021 19:09:00 UTC
+04-Oct-2021 23:32:07.595 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.53.0
+04-Oct-2021 23:32:07.596 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Oct-2021 23:32:07.596 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+04-Oct-2021 23:32:07.596 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+04-Oct-2021 23:32:07.596 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_221\jre
+04-Oct-2021 23:32:07.596 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_221-b11
+04-Oct-2021 23:32:07.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Oct-2021 23:32:07.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Moira\Downloads\myProject
+04-Oct-2021 23:32:07.597 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Moira\Downloads\myProject
+04-Oct-2021 23:32:07.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Moira\Downloads\myProject\conf\logging.properties
+04-Oct-2021 23:32:07.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Oct-2021 23:32:07.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Oct-2021 23:32:07.598 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Oct-2021 23:32:07.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Oct-2021 23:32:07.599 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Moira\Downloads\myProject
+04-Oct-2021 23:32:07.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Moira\Downloads\myProject
+04-Oct-2021 23:32:07.600 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Moira\Downloads\myProject\temp
+04-Oct-2021 23:32:07.605 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Moira\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;D:\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\Git\cmd;C:\Users\Moira\Downloads\myProject\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Moira\AppData\Local\Microsoft\WindowsApps;C:\modeltech64_10.5\win64;C:\Program Files\JetBrains\IntelliJ IDEA 2021.2\bin;.]
+04-Oct-2021 23:32:07.856 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:32:07.873 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [439] milliseconds
+04-Oct-2021 23:32:07.894 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Oct-2021 23:32:07.894 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.53]
+04-Oct-2021 23:32:07.903 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\app]
+04-Oct-2021 23:32:08.231 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [110] milliseconds.
+04-Oct-2021 23:32:08.245 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\app] has finished in [342] ms
+04-Oct-2021 23:32:08.246 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\docs]
+04-Oct-2021 23:32:08.269 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\docs] has finished in [23] ms
+04-Oct-2021 23:32:08.269 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\examples]
+04-Oct-2021 23:32:08.580 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\examples] has finished in [311] ms
+04-Oct-2021 23:32:08.580 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\host-manager]
+04-Oct-2021 23:32:08.612 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\host-manager] has finished in [32] ms
+04-Oct-2021 23:32:08.612 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\manager]
+04-Oct-2021 23:32:08.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\manager] has finished in [34] ms
+04-Oct-2021 23:32:08.647 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\Moira\Downloads\myProject\webapps\ROOT]
+04-Oct-2021 23:32:08.676 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Moira\Downloads\myProject\webapps\ROOT] has finished in [29] ms
+04-Oct-2021 23:32:08.679 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Oct-2021 23:32:08.698 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [824] milliseconds
